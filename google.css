@@ -122,6 +122,14 @@ nav{
     background-color: rgb(240, 240, 240);
 }
 
+p{
+    position: absolute;
+    left:20px;
+    color:rgb(99, 99, 99);
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
 .sb{
     height: 40px;
 }
